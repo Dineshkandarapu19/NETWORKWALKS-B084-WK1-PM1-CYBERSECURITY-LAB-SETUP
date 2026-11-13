@@ -327,7 +327,7 @@ These activities provided practical exposure to cybersecurity lab configuration,
 Cybersecurity & Penetration Testing Intern  
 NetworkWalks – Batch B084
 
-**GitHub:** [DineshK1921](https://github.com/DineshK1921)
+**GitHub:** [DineshK1921](https://github.com/Dineshkandarapu19)
 
 ---
 
