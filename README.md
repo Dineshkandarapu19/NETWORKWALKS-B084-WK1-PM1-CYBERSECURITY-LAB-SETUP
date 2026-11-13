@@ -1,5 +1,5 @@
 
-# NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-B084
 
 # Cybersecurity & Penetration Testing Internship
 
