@@ -323,11 +323,11 @@ These activities provided practical exposure to cybersecurity lab configuration,
 
 ## Author
 
-**Kandharapu Dinesh**  
+**Kandarapu Dinesh**  
 Cybersecurity & Penetration Testing Intern  
 NetworkWalks – Batch B084
 
-**GitHub:** [DineshK1921](https://github.com/Dineshkandarapu19)
+**GitHub:** [Dineshkandarapu19](https://github.com/Dineshkandarapu19)
 
 ---
 
